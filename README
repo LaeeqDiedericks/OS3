@@ -1,0 +1,9 @@
+1)Code can be run by using two methods:
+	1.1) Going into src file and using javac to compile RunSimulation and then java to run RunSimulation 		     class with the associated thread and barrier size.
+		method: i) javac RunSimulation.java
+			ii) java BarrierTest 12 3
+
+	1.2) using the Make file.
+		method: i) make run- this will run RunSimulation class with the 12 3 parameters being passed
+			
+

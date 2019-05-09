@@ -39,3 +39,5 @@ public class Hydrogen extends Thread {
 	}
 
 }
+
+//references: little book of semaphores H2O example and help

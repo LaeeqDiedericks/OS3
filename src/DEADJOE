@@ -1,3 +1,8 @@
+
+*** These modified files were found in JOE when it aborted on Thu May  9 00:34:37 2019
+*** JOE was aborted by UNIX signal 1
+
+*** File 'Carbon.java'
 //package molecule;
 
 public class Carbon extends Thread {
@@ -39,4 +44,22 @@ public class Carbon extends Thread {
 
 }
 
-//referencing: little book of semaphores H20 example and help
+//referencing: little book of semaphore H2O example and help
+*** File '(Unnamed)'
+BThread.java
+src/Barrier.java
+Barrier.java
+BarrierS/Barrier.java
+Barrier.java
+Barrier.java
+src/Barrier.java
+WetDishRack.java
+WetDishRack.java
+Carbon.java
+Carbon.java
+
+*** File '* Startup Log *'
+Processing '/etc/joe/joerc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/joerc
